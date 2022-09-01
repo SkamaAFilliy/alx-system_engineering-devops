@@ -1,1 +1,1 @@
-Create a script that copies all the HTML files
+Create a script that switches the current user to the user betty
